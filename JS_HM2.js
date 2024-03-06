@@ -59,7 +59,7 @@ const user = {
 user.city = 'city of residence' 
 delete city;
 let info = prompt ('Какую информацию хотите узнать о пользователе?')
-alert (info)
+alert (user[info])
 
 
 // example10//
