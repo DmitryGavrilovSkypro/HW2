@@ -12,6 +12,7 @@ alert (releaseiPhone)
 const creatorJS = 'Брендан Эйх'
 alert (creatorJS)
 
+
 // example4//
 let number10 = 10
 let number2 = 2
